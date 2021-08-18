@@ -1,0 +1,20 @@
+body{
+  min-height: 100vh;
+}
+
+.map{
+  min-width: 100vw;
+  max-height: 15rem;
+}
+
+.bg-img{
+  background-image: url(https://c8.alamy.com/comp/TA8FN4/shocked-man-with-pen-holding-clipboard-on-grey-background-TA8FN4.jpg);
+  background-size: cover;
+  background-position: 2em;
+  
+}
+.map{
+  background-image: url(https://www.apple.com/newsroom/images/product/apps/standard/Apple_Maps_01302020_LP_hero.jpg.og.jpg);
+  background-size: cover;
+  background-position: 5%
+}
